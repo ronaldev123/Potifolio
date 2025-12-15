@@ -17,6 +17,7 @@ O site foi pensado para ser simples, visualmente agradável e funcional, permiti
 . 📱 Layout responsivo para diferentes dispositivos
 
 . 🔗 Links diretos para GitHub, LinkedIn e contato por e-mail
+
 **🛠️ Tecnologias Utilizadas**
 
 . HTML5 – Estrutura do site
